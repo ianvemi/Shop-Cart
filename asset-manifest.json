@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shop-Cart.git/static/css/main.af43f19b.chunk.css",
-    "main.js": "/Shop-Cart.git/static/js/main.9c453710.chunk.js",
-    "main.js.map": "/Shop-Cart.git/static/js/main.9c453710.chunk.js.map",
-    "runtime-main.js": "/Shop-Cart.git/static/js/runtime-main.cd0534f9.js",
-    "runtime-main.js.map": "/Shop-Cart.git/static/js/runtime-main.cd0534f9.js.map",
-    "static/js/2.4bc292b5.chunk.js": "/Shop-Cart.git/static/js/2.4bc292b5.chunk.js",
-    "static/js/2.4bc292b5.chunk.js.map": "/Shop-Cart.git/static/js/2.4bc292b5.chunk.js.map",
-    "static/js/3.eed05b6f.chunk.js": "/Shop-Cart.git/static/js/3.eed05b6f.chunk.js",
-    "static/js/3.eed05b6f.chunk.js.map": "/Shop-Cart.git/static/js/3.eed05b6f.chunk.js.map",
-    "index.html": "/Shop-Cart.git/index.html",
-    "static/css/main.af43f19b.chunk.css.map": "/Shop-Cart.git/static/css/main.af43f19b.chunk.css.map",
-    "static/js/2.4bc292b5.chunk.js.LICENSE.txt": "/Shop-Cart.git/static/js/2.4bc292b5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Shop-Cart.git/static/media/Gil.5b89a8df.ttf"
+    "main.css": "/Shop-Cart/static/css/main.4629c41c.chunk.css",
+    "main.js": "/Shop-Cart/static/js/main.9c453710.chunk.js",
+    "main.js.map": "/Shop-Cart/static/js/main.9c453710.chunk.js.map",
+    "runtime-main.js": "/Shop-Cart/static/js/runtime-main.de5490c6.js",
+    "runtime-main.js.map": "/Shop-Cart/static/js/runtime-main.de5490c6.js.map",
+    "static/js/2.4bc292b5.chunk.js": "/Shop-Cart/static/js/2.4bc292b5.chunk.js",
+    "static/js/2.4bc292b5.chunk.js.map": "/Shop-Cart/static/js/2.4bc292b5.chunk.js.map",
+    "static/js/3.eed05b6f.chunk.js": "/Shop-Cart/static/js/3.eed05b6f.chunk.js",
+    "static/js/3.eed05b6f.chunk.js.map": "/Shop-Cart/static/js/3.eed05b6f.chunk.js.map",
+    "index.html": "/Shop-Cart/index.html",
+    "static/css/main.4629c41c.chunk.css.map": "/Shop-Cart/static/css/main.4629c41c.chunk.css.map",
+    "static/js/2.4bc292b5.chunk.js.LICENSE.txt": "/Shop-Cart/static/js/2.4bc292b5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Shop-Cart/static/media/Gil.5b89a8df.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd0534f9.js",
+    "static/js/runtime-main.de5490c6.js",
     "static/js/2.4bc292b5.chunk.js",
-    "static/css/main.af43f19b.chunk.css",
+    "static/css/main.4629c41c.chunk.css",
     "static/js/main.9c453710.chunk.js"
   ]
 }
